@@ -1,0 +1,7 @@
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\bin\Debug\Gamer.exe.config
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\bin\Debug\Gamer.exe
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\bin\Debug\Gamer.pdb
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\obj\Debug\Gamer.csprojAssemblyReference.cache
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\obj\Debug\Gamer.csproj.CoreCompileInputs.cache
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\obj\Debug\Gamer.exe
+C:\Users\hikmet nadirler\source\repos\Odevler\Gamer\obj\Debug\Gamer.pdb
